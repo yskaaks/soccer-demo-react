@@ -17,7 +17,7 @@ This React project demonstrates how to establish a WebSocket connection to strea
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yskaak/soccer-demo-react
+git clone git@github.com:yskaaks/soccer-demo-react.git
 ```
 2. Navigate to the project directory:
 ```bash
